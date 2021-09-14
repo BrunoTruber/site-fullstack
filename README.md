@@ -1,3 +1,3 @@
 
-Um pequeno site fullstack. Utilizei python(Flask), HTML, CSS e SQL
+Um pequeno site fullstack! Utilizei Python (Flask), HTML, CSS e SQL
 
